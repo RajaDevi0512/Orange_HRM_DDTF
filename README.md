@@ -1,4 +1,4 @@
-## Automating Orange HRM portal using DDF
+## Automated Orange HRM portal using DDF
 
 Web url : "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
 
